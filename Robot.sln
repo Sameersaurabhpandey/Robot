@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Robot", "Robot\Robot.csproj", "{A837C693-2FFB-4AA5-9298-45C4CE71A307}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyRobot", "ToyRobot\ToyRobot.csproj", "{DDCAC6A1-8864-419E-8AC3-61A474FDDE50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotTest", "RobotTest\RobotTest.csproj", "{DFE02587-7D38-4A5F-9A8F-DFFA92A81DE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A837C693-2FFB-4AA5-9298-45C4CE71A307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A837C693-2FFB-4AA5-9298-45C4CE71A307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A837C693-2FFB-4AA5-9298-45C4CE71A307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A837C693-2FFB-4AA5-9298-45C4CE71A307}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDCAC6A1-8864-419E-8AC3-61A474FDDE50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDCAC6A1-8864-419E-8AC3-61A474FDDE50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDCAC6A1-8864-419E-8AC3-61A474FDDE50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDCAC6A1-8864-419E-8AC3-61A474FDDE50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFE02587-7D38-4A5F-9A8F-DFFA92A81DE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFE02587-7D38-4A5F-9A8F-DFFA92A81DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFE02587-7D38-4A5F-9A8F-DFFA92A81DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFE02587-7D38-4A5F-9A8F-DFFA92A81DE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B83DCFD1-B0E3-4D3A-8F95-10F6E73219BF}
+	EndGlobalSection
+EndGlobal
